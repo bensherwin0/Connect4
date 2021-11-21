@@ -1,4 +1,4 @@
-class CompPlayer extends Player
+class CompPlayer extends Player // 
 {
   Game g; //internal representation
   float[][] table = {{3, 4, 5, 7, 5, 4, 3}, 
